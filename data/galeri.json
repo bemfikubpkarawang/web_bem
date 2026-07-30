@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "judul": "Open Recruitment BEM FIK 2026",
+    "kategori": "Open Recruitment",
+    "tanggal": "2026-09-05",
+    "gambar": "assets/images/galeri/oprec-1.jpg",
+    "thumbnail": "assets/images/galeri/oprec-1-thumb.jpg",
+    "deskripsi": "Suasana pembukaan Open Recruitment BEM Fakultas Ilmu Komputer 2026."
+  },
+{
+  "id": 2,
+  "judul": "Pelantikan Anggota BEM",
+  "kategori": "Open Recruitment",
+  "tanggal": "2026-09-08",
+
+  "gambar": [
+    "assets/images/galeri/oprec-2.jpg",
+    "assets/images/galeri/oprec-2-1.jpg",
+    "assets/images/galeri/oprec-2-2.jpg",
+    "assets/images/galeri/oprec-2-3.jpg"
+  ],
+
+  "thumbnail": "assets/images/galeri/oprec-2-thumb.jpg",
+  "deskripsi": "Tahap wawancara calon pengurus BEM Fakultas Ilmu Komputer."
+},
+  {
+    "id": 3,
+    "judul": "Seminar Nasional Teknologi",
+    "kategori": "Seminar",
+    "tanggal": "2026-10-12",
+    "gambar": "assets/images/galeri/seminar-1.jpg",
+    "thumbnail": "assets/images/galeri/seminar-1-thumb.jpg",
+    "deskripsi": "Penyampaian materi seminar oleh narasumber."
+  },
+  {
+    "id": 4,
+    "judul": "Workshop UI/UX",
+    "kategori": "Workshop",
+    "tanggal": "2026-12-15",
+    "gambar": "assets/images/galeri/workshop-uiux.jpg",
+    "thumbnail": "assets/images/galeri/workshop-uiux-thumb.jpg",
+    "deskripsi": "Peserta mengikuti workshop UI/UX Design menggunakan Figma."
+  },
+  {
+    "id": 5,
+    "judul": "Bakti Sosial",
+    "kategori": "Pengabdian",
+    "tanggal": "2026-11-08",
+    "gambar": "assets/images/galeri/baksos-1.jpg",
+    "thumbnail": "assets/images/galeri/baksos-1-thumb.jpg",
+    "deskripsi": "Penyaluran bantuan kepada masyarakat."
+  },
+  {
+    "id": 6,
+    "judul": "Festival Minat dan Bakat",
+    "kategori": "Event",
+    "tanggal": "2027-01-20",
+    "gambar": "assets/images/galeri/minba-1.jpg",
+    "thumbnail": "assets/images/galeri/minba-1-thumb.jpg",
+    "deskripsi": "Penampilan mahasiswa dalam Festival Minat dan Bakat."
+  },
+  {
+    "id": 7,
+    "judul": "Pelatihan Public Speaking",
+    "kategori": "Pelatihan",
+    "tanggal": "2027-02-18",
+    "gambar": "assets/images/galeri/public-speaking.jpg",
+    "thumbnail": "assets/images/galeri/public-speaking-thumb.jpg",
+    "deskripsi": "Pelatihan komunikasi dan presentasi untuk mahasiswa."
+  },
+  {
+    "id": 8,
+    "judul": "Rapat Kerja BEM",
+    "kategori": "Internal",
+    "tanggal": "2026-08-25",
+    "gambar": "assets/images/galeri/raker-1.jpg",
+    "thumbnail": "assets/images/galeri/raker-1-thumb.jpg",
+    "deskripsi": "Rapat kerja awal periode kepengurusan BEM."
+  },
+  {
+    "id": 9,
+    "judul": "Dokumentasi Pengurus",
+    "kategori": "Dokumentasi",
+    "tanggal": "2026-08-28",
+    "gambar": "assets/images/galeri/pengurus-1.jpg",
+    "thumbnail": "assets/images/galeri/pengurus-1-thumb.jpg",
+    "deskripsi": "Foto bersama seluruh pengurus BEM Fakultas Ilmu Komputer."
+  },
+  {
+    "id": 10,
+    "judul": "Kunjungan Organisasi",
+    "kategori": "Studi Banding",
+    "tanggal": "2027-03-10",
+    "gambar": "assets/images/galeri/studibanding.jpg",
+    "thumbnail": "assets/images/galeri/studibanding-thumb.jpg",
+    "deskripsi": "Kegiatan studi banding dengan organisasi mahasiswa dari perguruan tinggi lain."
+  },
+  {
+    "id": 11,
+    "judul": "Lomba Coding",
+    "kategori": "Kompetisi",
+    "tanggal": "2027-04-02",
+    "gambar": "assets/images/galeri/coding.jpg",
+    "thumbnail": "assets/images/galeri/coding-thumb.jpg",
+    "deskripsi": "Mahasiswa mengikuti kompetisi pemrograman."
+  },
+  {
+    "id": 12,
+    "judul": "Penutupan Kepengurusan",
+    "kategori": "Internal",
+    "tanggal": "2027-07-15",
+    "gambar": "assets/images/galeri/closing.jpg",
+    "thumbnail": "assets/images/galeri/closing-thumb.jpg",
+    "deskripsi": "Acara penutupan dan evaluasi akhir kepengurusan."
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "nama": "Komunikasi dan Informasi",
+    "singkatan": "KOMINFO",
+    "logo": "assets/images/divisi/kominfo.png",
+    "icon": "fas fa-bullhorn",
+    "warna": "#8B5CF6",
+    "deskripsi": "Departemen yang bertanggung jawab dalam pengelolaan media informasi, publikasi, dokumentasi, branding organisasi, serta menjalin hubungan luar.",
+    "visi": "Menjadi pusat informasi organisasi yang informatif, kreatif, profesional, dan mudah diakses oleh seluruh mahasiswa.",
+    "tugas": [
+      "Mengelola media informasi BEM.",
+      "Membuat publikasi kegiatan.",
+      "Melakukan dokumentasi kegiatan.",
+      "Menjalin hubungan luar dan media partner."
+    ],
+    "koordinator": {
+      "nama": "",
+      "jabatan": "Kepala Departemen KOMINFO",
+      "foto": "assets/images/pengurus/default.png"
+    },
+    "wakil": null,
+    "jumlahAnggota": 5,
+    "proker": [
+      "Mading Digital",
+      "Publikasi Kegiatan",
+      "Dokumentasi Acara"
+    ]
+  },
+  {
+    "id": 2,
+    "nama": "Minat dan Bakat",
+    "singkatan": "MINBA",
+    "logo": "assets/images/divisi/minba.png",
+    "icon": "fas fa-medal",
+    "warna": "#EC4899",
+    "deskripsi": "Departemen yang memfasilitasi pengembangan minat mahasiswa pada bidang olahraga, seni, serta kreativitas.",
+    "visi": "Mengembangkan potensi mahasiswa melalui kegiatan positif dan kompetitif.",
+    "tugas": [
+      "Mengembangkan minat olahraga.",
+      "Mengembangkan seni mahasiswa.",
+      "Mendorong kreativitas mahasiswa.",
+      "Menyelenggarakan kegiatan pengembangan bakat."
+    ],
+    "koordinator": {
+      "nama": "",
+      "jabatan": "Kepala Departemen MINBA",
+      "foto": "assets/images/pengurus/default.png"
+    },
+    "wakil": null,
+    "jumlahAnggota": 4,
+    "proker": [
+      "PKKMB",
+      "Inagurasi",
+      "Lomba Antar Universitas"
+    ]
+  },
+    {
+    "id": 3,
+    "nama": "Pengembangan Sumber Daya Mahasiswa",
+    "singkatan": "PSDM",
+    "logo": "assets/images/divisi/pssdm.png",
+    "icon": "fas fa-users",
+    "warna": "#2563EB",
+    "deskripsi": "Departemen yang berfokus pada kaderisasi, pembinaan, dan pengembangan kepemimpinan mahasiswa.",
+    "visi": "Mewujudkan mahasiswa yang aktif, berkarakter, dan memiliki jiwa kepemimpinan.",
+    "tugas": [
+      "Melaksanakan kaderisasi.",
+      "Mengembangkan kepemimpinan mahasiswa.",
+      "Menyelenggarakan pelatihan.",
+      "Melakukan pembinaan pengurus."
+    ],
+    "koordinator": {
+      "nama": "",
+      "jabatan": "Kepala Departemen PSDM",
+      "foto": "assets/images/pengurus/default.png"
+    },
+    "wakil": null,
+    "jumlahAnggota": 4,
+    "proker": [
+      "Workshop CV & Interview",
+      "Public Speaking",
+      "Career Talk",
+      "Leadership Training"
+    ]
+  },
+  {
+    "id": 4,
+    "nama": "Sosial Politik",
+    "singkatan": "SOSPOL",
+    "logo": "assets/images/divisi/sospol.png",
+    "icon": "fas fa-handshake",
+    "warna": "#F59E0B",
+    "deskripsi": "Departemen yang berfokus pada kajian kebijakan, advokasi isu, serta pergerakan mahasiswa.",
+    "visi": "Menjadi wadah aspirasi mahasiswa yang kritis, responsif, dan solutif.",
+    "tugas": [
+      "Melakukan kajian kebijakan.",
+      "Mengadvokasi isu kemahasiswaan.",
+      "Menampung aspirasi mahasiswa.",
+      "Menggerakkan kegiatan sosial kemahasiswaan."
+    ],
+    "koordinator": {
+      "nama": "",
+      "jabatan": "Kepala Departemen SOSPOL",
+      "foto": "assets/images/pengurus/default.png"
+    },
+    "wakil": null,
+    "jumlahAnggota": 3,
+    "proker": [
+      "Publikasi Magang",
+      "Informasi Lomba",
+      "Informasi Beasiswa",
+      "Publikasi Sertifikasi",
+      "Seminar & Webinar",
+      "Kotak Aspirasi Online",
+      "Forum Dialog Mahasiswa",
+      "Publikasi Tindak Lanjut Aspirasi",
+      "Forum Koordinasi BEM - HMPS",
+      "Kolaborasi Kegiatan",
+      "Sharing Bersama Alumni",
+      "Wadah Aspirasi",
+      "Goes To School"
+    ]
+  }
+]

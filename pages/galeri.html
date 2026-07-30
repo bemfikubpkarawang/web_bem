@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Galeri | BEM Fakultas Ilmu Komputer</title>
+
+    <link rel="icon" href="../assets/images/logo.png">
+
+    <link rel="stylesheet" href="../css/style.css">
+
+    <link rel="stylesheet" href="../css/responsive.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" rel="stylesheet">
+
+    <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- ==========================================
+        LOADER
+    =========================================== -->
+
+    <div class="loader">
+
+        <div class="spinner"></div>
+
+    </div>
+
+    <!-- ==========================================
+        NAVBAR
+    =========================================== -->
+
+    <header id="header"></header>
+
+    <main>
+
+        <!-- ==========================================
+            HERO
+        =========================================== -->
+
+        <section class="gallery-hero">
+
+            <div class="container">
+
+                <div class="gallery-hero-content" data-aos="fade-up">
+
+                    <span class="gallery-badge">
+
+                        <i class="ri-image-2-line"></i>
+
+                        Dokumentasi Kegiatan
+
+                    </span>
+
+                    <h1>
+
+                        Galeri
+                        Badan Eksekutif Mahasiswa
+                        Fakultas Ilmu Komputer
+
+                    </h1>
+
+                    <p>
+
+                        Jelajahi dokumentasi berbagai
+                        kegiatan, seminar, pelatihan,
+                        pengabdian masyarakat,
+                        perlombaan, hingga program kerja
+                        Badan Eksekutif Mahasiswa
+                        Fakultas Ilmu Komputer.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- ==========================================
+            FILTER
+        =========================================== -->
+
+        <section class="gallery-filter">
+
+            <div class="container">
+
+                <div class="gallery-toolbar">
+
+                    <div class="gallery-search">
+
+                        <i class="ri-search-line"></i>
+
+                        <input type="text" id="gallerySearch" placeholder="Cari dokumentasi...">
+
+                    </div>
+
+                    <div class="gallery-filter-group">
+
+                        <button class="gallery-filter-btn active" data-filter="">
+
+                            Semua
+
+                        </button>
+
+                        <button class="gallery-filter-btn" data-filter="Seminar">
+
+                            Seminar
+
+                        </button>
+
+                        <button class="gallery-filter-btn" data-filter="Pelatihan">
+
+                            Pelatihan
+
+                        </button>
+
+                        <button class="gallery-filter-btn" data-filter="Pengabdian">
+
+                            Pengabdian
+
+                        </button>
+
+                        <button class="gallery-filter-btn" data-filter="Rapat">
+
+                            Rapat
+
+                        </button>
+
+                        <button class="gallery-filter-btn" data-filter="Event">
+
+                            Event
+
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- ==========================================
+            GALLERY
+        =========================================== -->
+
+        <section class="gallery-section">
+
+            <div class="container">
+
+                <div class="gallery-header">
+
+                    <div>
+
+                        <span class="section-badge">
+
+                            Dokumentasi
+
+                        </span>
+
+                        <h2>
+
+                            Momen Terbaik Kegiatan BEM
+
+                        </h2>
+
+                        <p>
+
+                            Kumpulan dokumentasi kegiatan, program kerja,
+                            seminar, pelatihan, hingga aktivitas
+                            kemahasiswaan yang telah dilaksanakan.
+
+                        </p>
+
+                    </div>
+
+                    <div class="gallery-count">
+
+                        <span id="galleryCount">
+
+                            0 Dokumentasi
+
+                        </span>
+
+                    </div>
+
+                </div>
+
+                <div class="gallery-grid" id="galleryContainer">
+
+                    <!-- Render Otomatis dari galeri.json -->
+
+                </div>
+
+                <!-- EMPTY STATE -->
+
+                <div class="gallery-empty" id="galleryEmpty" style="display:none;">
+
+                    <div class="empty-icon">
+
+                        <i class="ri-image-line"></i>
+
+                    </div>
+
+                    <h3>
+
+                        Dokumentasi Tidak Ditemukan
+
+                    </h3>
+
+                    <p>
+
+                        Coba gunakan kata kunci lain
+                        atau pilih kategori yang berbeda.
+
+                    </p>
+
+                </div>
+
+                <!-- LOAD MORE -->
+
+                <div class="gallery-action">
+
+                    <button id="loadMoreGallery" class="btn btn-outline">
+
+                        <i class="ri-add-line"></i>
+
+                        Muat Lebih Banyak
+
+                    </button>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- ==========================================
+            LIGHTBOX
+        =========================================== -->
+
+        <div class="gallery-lightbox" id="galleryLightbox">
+
+            <button class="lightbox-close" id="closeLightbox">
+
+                <i class="ri-close-line"></i>
+
+            </button>
+
+            <button class="lightbox-nav prev" id="prevImage">
+
+                <i class="ri-arrow-left-s-line"></i>
+
+            </button>
+
+            <img id="lightboxImage" src="" alt="Gallery Image">
+
+            <button class="lightbox-nav next" id="nextImage">
+
+                <i class="ri-arrow-right-s-line"></i>
+
+            </button>
+
+            <div class="lightbox-caption" id="lightboxCaption">
+
+                <h3></h3>
+
+                <p></p>
+
+            </div>
+
+        </div>
+
+        <!-- ==========================================
+            CTA
+        =========================================== -->
+
+        <section class="gallery-cta">
+
+            <div class="container">
+
+                <div class="gallery-cta-content" data-aos="fade-up">
+
+                    <span class="section-badge">
+
+                        Bergabung Bersama Kami
+
+                    </span>
+
+                    <h2>
+
+                        Jadilah Bagian dari
+                        Kegiatan BEM Fakultas Ilmu Komputer
+
+                    </h2>
+
+                    <p>
+
+                        Setiap kegiatan yang kami selenggarakan
+                        menjadi wadah bagi mahasiswa untuk belajar,
+                        berkembang, berkolaborasi, dan memberikan
+                        dampak positif bagi lingkungan kampus maupun
+                        masyarakat.
+
+                    </p>
+
+                    <div class="gallery-cta-buttons">
+
+                        <a href="informasi.html" class="btn btn-primary">
+
+                            <i class="ri-newspaper-line"></i>
+
+                            Lihat Informasi
+
+                        </a>
+
+                        <a href="tentang.html" class="btn btn-outline">
+                            <i class="ri-information-line"></i>
+                            <span>Tentang BEM</span>
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- ==========================================
+        FOOTER
+    =========================================== -->
+
+    <footer id="footer"></footer>
+
+    <!-- ==========================================
+        BACK TO TOP
+    =========================================== -->
+
+    <button id="backToTop" class="back-to-top">
+
+        <i class="ri-arrow-up-line"></i>
+
+    </button>
+
+    <!-- ==========================================
+        SCRIPT
+    =========================================== -->
+
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+    <script src="../js/data-loader.js"></script>
+
+    <script src="../js/app.js"></script>
+
+    <script src="../js/galeri.js"></script>
+
+    <script src="../js/animation.js"></script>
+
+    <script>
+
+        AOS.init({
+
+            duration: 800,
+
+            once: true,
+
+            offset: 100
+
+        });
+
+    </script>
+
+</body>
+
+</html>

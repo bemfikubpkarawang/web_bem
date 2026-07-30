@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+  "nama": "Komunikasi dan Informasi",
+  "singkatan": "KOMINFO",
+  "icon": "ri-computer-line",
+  "gambar": "../assets/images/divisi/kominfo.png",
+  "deskripsi": "Departemen yang bertanggung jawab dalam pengelolaan media informasi, publikasi, dokumentasi, branding organisasi, website, serta hubungan luar BEM FIK.",
+
+  "ketua": "Atila Faturrahman Pratama",
+  "jumlahAnggota": 5,
+  "masaJabatan": "Desember 2026",
+
+  "visi": "Menjadi pusat informasi BEM FIK yang informatif, kreatif, profesional, dan adaptif terhadap perkembangan teknologi digital.",
+
+  "misi": [
+    "Mengelola media informasi organisasi.",
+    "Mengembangkan branding BEM FIK.",
+    "Menyediakan publikasi yang cepat dan informatif.",
+    "Mendokumentasikan seluruh kegiatan organisasi."
+  ],
+
+  "tugas": [
+    "Mengelola media sosial.",
+    "Mengelola website BEM.",
+    "Membuat desain publikasi.",
+    "Mendokumentasikan kegiatan.",
+    "Menjalin hubungan media."
+  ],
+
+  "programKerja": [
+    {
+      "nama": "Mading Digital",
+      "deskripsi": "Media informasi digital mahasiswa Fakultas Ilmu Komputer."
+    },
+    {
+      "nama": "Publikasi Kegiatan",
+      "deskripsi": "Publikasi seluruh kegiatan BEM melalui media digital."
+    },
+    {
+      "nama": "Dokumentasi Organisasi",
+      "deskripsi": "Pendokumentasian seluruh kegiatan BEM."
+    }
+  ],
+
+  "pengurus": [
+    { "nama": "Atila Faturrahman Pratama", "jabatan": "Ketua Divisi" },
+    { "nama": "Tiara Novita Sari", "jabatan": "Wakil Ketua Divisi" },
+    { "nama": "Syahla Syifa Bella", "jabatan": "Anggota" },
+    { "nama": "Nadia Rahma Anindya", "jabatan": "Anggota" },
+    { "nama": "Nadiyah Fakhar", "jabatan": "Anggota" }
+  ]
+},
+
+{
+  "id": 2,
+  "nama": "Minat dan Bakat",
+  "singkatan": "MINBA",
+  "icon": "ri-trophy-line",
+  "gambar": "../assets/images/divisi/minba.png",
+  "deskripsi": "Departemen yang memfasilitasi pengembangan minat olahraga, seni, dan kreativitas mahasiswa.",
+
+  "ketua": "Refa Agustyah",
+  "jumlahAnggota": 4,
+  "masaJabatan": "Desember 2026",
+
+  "visi": "Mengembangkan potensi mahasiswa melalui kegiatan olahraga, seni, dan kreativitas.",
+
+  "misi": [
+    "Mengembangkan minat mahasiswa.",
+    "Menyelenggarakan kegiatan olahraga.",
+    "Mendorong kreativitas mahasiswa.",
+    "Mengembangkan prestasi mahasiswa."
+  ],
+
+  "tugas": [
+    "Mengembangkan minat olahraga.",
+    "Mengembangkan seni.",
+    "Menyelenggarakan perlombaan.",
+    "Mengembangkan kreativitas mahasiswa."
+  ],
+
+  "programKerja": [
+    {
+      "nama": "PKKMB",
+      "deskripsi": "Mendukung pelaksanaan PKKMB Fakultas."
+    },
+    {
+      "nama": "Inagurasi",
+      "deskripsi": "Penyambutan mahasiswa baru."
+    },
+    {
+      "nama": "Lomba Antar Universitas",
+      "deskripsi": "Kompetisi teknologi maupun olahraga."
+    }
+  ],
+
+  "pengurus": [
+    { "nama": "Refa Agustyah", "jabatan": "Ketua Divisi" },
+    { "nama": "Vina Amalia", "jabatan": "Wakil Ketua Divisi" },
+    { "nama": "Faruq Amru Abdul Fawwaz", "jabatan": "Anggota" },
+    { "nama": "Muhammad Rendyansyah Dwi Anggara", "jabatan": "Anggota" }
+  ]
+},
+
+{
+  "id": 3,
+  "nama": "Pengembangan Sumber Daya Mahasiswa",
+  "singkatan": "PSDM",
+  "icon": "ri-team-line",
+  "gambar": "../assets/images/divisi/pssdm.png",
+  "deskripsi": "Departemen yang berfokus pada kaderisasi serta pengembangan kepemimpinan mahasiswa.",
+
+  "ketua": "Dicky Wahyu Nugraha",
+  "jumlahAnggota": 4,
+  "masaJabatan": "Desember 2026",
+
+  "visi": "Mewujudkan mahasiswa yang berkarakter, berintegritas, dan memiliki jiwa kepemimpinan.",
+
+  "misi": [
+    "Melaksanakan kaderisasi.",
+    "Mengembangkan kepemimpinan mahasiswa.",
+    "Menyelenggarakan pelatihan.",
+    "Meningkatkan kualitas SDM organisasi."
+  ],
+
+  "tugas": [
+    "Melaksanakan kaderisasi.",
+    "Mengadakan pelatihan.",
+    "Melakukan evaluasi pengurus.",
+    "Mengembangkan kepemimpinan mahasiswa."
+  ],
+
+  "programKerja": [
+    {
+      "nama": "Workshop CV & Interview",
+      "deskripsi": "Pelatihan penyusunan CV dan simulasi interview."
+    },
+    {
+      "nama": "Public Speaking",
+      "deskripsi": "Pelatihan komunikasi dan presentasi."
+    },
+    {
+      "nama": "Career Talk",
+      "deskripsi": "Diskusi bersama alumni dan praktisi."
+    },
+    {
+      "nama": "Leadership Training",
+      "deskripsi": "Pelatihan kepemimpinan mahasiswa."
+    }
+  ],
+
+  "pengurus": [
+    { "nama": "Dicky Wahyu Nugraha", "jabatan": "Kepala Departemen" },
+    { "nama": "Vina Ayulia Tari", "jabatan": "Anggota" },
+    { "nama": "Muhammad Rizha Hardiyanto", "jabatan": "Anggota" },
+    { "nama": "Alika Ramadhani Putri Prmono", "jabatan": "Anggota" }
+  ]
+},
+
+{
+  "id": 4,
+  "nama": "Sosial Politik",
+  "singkatan": "SOSPOL",
+  "icon": "ri-government-line",
+  "gambar": "../assets/images/divisi/sospol.png",
+  "deskripsi": "Departemen yang berfokus pada kajian kebijakan, advokasi isu, aspirasi, serta pergerakan mahasiswa.",
+
+  "ketua": "Anwar Ramadhan",
+  "jumlahAnggota": 3,
+  "masaJabatan": "Desember 2026",
+
+  "visi": "Menjadi departemen yang aktif, kritis, responsif, dan solutif dalam memperjuangkan aspirasi mahasiswa.",
+
+  "misi": [
+    "Menghimpun aspirasi mahasiswa.",
+    "Melaksanakan kajian kebijakan.",
+    "Menjalin hubungan eksternal.",
+    "Meningkatkan kepedulian sosial mahasiswa."
+  ],
+
+  "tugas": [
+    "Mengelola aspirasi mahasiswa.",
+    "Melakukan advokasi isu.",
+    "Melaksanakan kajian kebijakan.",
+    "Membangun hubungan eksternal."
+  ],
+
+  "programKerja": [
+    {
+      "nama": "Publikasi Magang",
+      "deskripsi": "Publikasi informasi lowongan magang."
+    },
+    {
+      "nama": "Informasi Lomba",
+      "deskripsi": "Publikasi informasi kompetisi mahasiswa."
+    },
+    {
+      "nama": "Informasi Beasiswa",
+      "deskripsi": "Publikasi informasi beasiswa."
+    },
+    {
+      "nama": "Publikasi Sertifikasi",
+      "deskripsi": "Publikasi informasi sertifikasi."
+    },
+    {
+      "nama": "Seminar dan Webinar",
+      "deskripsi": "Publikasi seminar dan webinar."
+    },
+    {
+      "nama": "Kotak Aspirasi Online",
+      "deskripsi": "Media penyampaian aspirasi mahasiswa."
+    },
+    {
+      "nama": "Forum Dialog Mahasiswa",
+      "deskripsi": "Forum diskusi antara mahasiswa dan fakultas."
+    },
+    {
+      "nama": "Publikasi Tindak Lanjut Aspirasi",
+      "deskripsi": "Publikasi perkembangan penyelesaian aspirasi."
+    },
+    {
+      "nama": "Forum Koordinasi BEM-HMPS",
+      "deskripsi": "Koordinasi antar organisasi mahasiswa."
+    },
+    {
+      "nama": "Kolaborasi Kegiatan",
+      "deskripsi": "Pelaksanaan kegiatan bersama organisasi mahasiswa."
+    },
+    {
+      "nama": "Sharing Bersama Alumni",
+      "deskripsi": "Sharing pengalaman bersama alumni."
+    },
+    {
+      "nama": "Wadah Aspirasi",
+      "deskripsi": "Program penyaluran aspirasi mahasiswa."
+    },
+    {
+      "nama": "Goes To School",
+      "deskripsi": "Sosialisasi Fakultas Ilmu Komputer ke sekolah."
+    }
+  ],
+
+  "pengurus": [
+    { "nama": "Anwar Ramadhan", "jabatan": "Kepala Departemen" },
+    { "nama": "Aditya Devandra", "jabatan": "Anggota" },
+    { "nama": "Siti Tyara Renata", "jabatan": "Anggota" }
+  ]
+}
+]

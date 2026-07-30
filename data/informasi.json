@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "judul": "Open Recruitment Pengurus BEM FIK 2026",
+    "slug": "open-recruitment-2026",
+    "kategori": "Pengumuman",
+    "tanggal": "2026-09-01",
+    "penulis": "KOMINFO",
+    "thumbnail": "assets/images/informasi/oprec.jpg",
+    "gambar": [
+      "assets/images/informasi/oprec.jpg"
+    ],
+    "ringkasan": "Pendaftaran pengurus baru BEM Fakultas Ilmu Komputer resmi dibuka untuk seluruh mahasiswa aktif.",
+    "deskripsi": "BEM Fakultas Ilmu Komputer secara resmi membuka Open Recruitment Pengurus BEM FIK Periode 2026 bagi seluruh mahasiswa aktif yang memiliki semangat untuk berkembang, berorganisasi, dan memberikan kontribusi nyata bagi lingkungan kampus.\n\nMelalui kegiatan ini, mahasiswa diberikan kesempatan untuk bergabung dalam berbagai divisi sesuai minat dan kemampuan masing-masing. Seluruh calon pengurus akan mengikuti tahapan seleksi mulai dari pendaftaran, seleksi administrasi, wawancara, hingga penetapan pengurus terpilih. Proses tersebut dirancang untuk mengenal potensi, komitmen, serta kemampuan calon pengurus dalam bekerja sama di dalam organisasi.\n\nBergabung menjadi bagian dari BEM tidak hanya memberikan pengalaman organisasi, tetapi juga menjadi sarana untuk mengembangkan kemampuan kepemimpinan, komunikasi, manajemen waktu, problem solving, hingga kerja sama tim. Pengurus akan terlibat secara langsung dalam penyusunan dan pelaksanaan berbagai program kerja yang bermanfaat bagi mahasiswa Fakultas Ilmu Komputer.\n\nBEM Fakultas Ilmu Komputer mengajak seluruh mahasiswa untuk tidak ragu mengambil kesempatan ini sebagai langkah awal dalam mengembangkan potensi diri sekaligus memberikan kontribusi positif bagi kemajuan organisasi dan fakultas.",
+    "tags": [
+      "Open Recruitment",
+      "BEM",
+      "Mahasiswa"
+    ],
+    "status": "publish"
+  },
+  {
+    "id": 2,
+    "judul": "Seminar Nasional Teknologi Informasi",
+    "slug": "seminar-teknologi",
+    "kategori": "Kegiatan",
+    "tanggal": "2026-10-12",
+    "penulis": "PSDM",
+    "thumbnail": "assets/images/informasi/seminar.jpg",
+    "gambar": [
+      "assets/images/informasi/seminar.jpg"
+    ],
+    "ringkasan": "Seminar menghadirkan praktisi industri dan akademisi di bidang teknologi informasi.",
+    "deskripsi": "Seminar Nasional Teknologi Informasi merupakan kegiatan akademik yang diselenggarakan untuk memperluas wawasan mahasiswa mengenai perkembangan teknologi digital yang terus berkembang di era modern.\n\nKegiatan ini menghadirkan narasumber dari kalangan akademisi maupun praktisi industri yang memiliki pengalaman di bidang Artificial Intelligence, Cyber Security, Cloud Computing, Software Engineering, serta transformasi digital. Peserta memperoleh kesempatan untuk memahami implementasi teknologi secara langsung melalui studi kasus dan pengalaman nyata dari dunia industri.\n\nSelain sesi pemaparan materi, seminar juga dilengkapi dengan diskusi interaktif dan sesi tanya jawab sehingga mahasiswa dapat berdialog langsung dengan para narasumber. Hal ini memberikan pengalaman belajar yang lebih menarik dan aplikatif.\n\nMelalui seminar ini diharapkan mahasiswa Fakultas Ilmu Komputer mampu meningkatkan wawasan, memahami kebutuhan industri saat ini, serta memiliki motivasi untuk terus mengembangkan kompetensi di bidang teknologi informasi.",
+    "tags": [
+      "Seminar",
+      "Teknologi",
+      "AI"
+    ],
+    "status": "publish"
+  },
+  {
+    "id": 3,
+    "judul": "Bakti Sosial Bersama Masyarakat",
+    "slug": "bakti-sosial",
+    "kategori": "Pengabdian",
+    "tanggal": "2026-11-08",
+    "penulis": "SOSPOL",
+    "thumbnail": "assets/images/informasi/baksos.jpg",
+    "gambar": [
+      "assets/images/informasi/baksos.jpg"
+    ],
+    "ringkasan": "Kegiatan sosial sebagai bentuk kepedulian mahasiswa kepada masyarakat.",
+    "deskripsi": "Bakti Sosial Bersama Masyarakat merupakan salah satu bentuk pengabdian mahasiswa kepada masyarakat yang diselenggarakan oleh BEM Fakultas Ilmu Komputer.\n\nKegiatan ini melibatkan mahasiswa dalam berbagai aktivitas sosial seperti penyaluran bantuan, edukasi literasi digital, pendampingan masyarakat, serta kegiatan kebersihan lingkungan. Mahasiswa juga memberikan penyuluhan mengenai penggunaan internet yang aman dan pemanfaatan teknologi dalam kehidupan sehari-hari.\n\nMelalui kegiatan ini mahasiswa belajar untuk meningkatkan rasa empati, kepedulian sosial, serta tanggung jawab sebagai bagian dari masyarakat. Selain memberikan manfaat kepada masyarakat, kegiatan ini juga menjadi wadah pembelajaran di luar lingkungan akademik.\n\nDiharapkan kegiatan bakti sosial dapat terus mempererat hubungan antara mahasiswa dan masyarakat serta menjadi bentuk nyata kontribusi perguruan tinggi dalam pembangunan sosial.",
+    "tags": [
+      "Bakti Sosial",
+      "Pengabdian",
+      "Masyarakat"
+    ],
+    "status": "publish"
+  },
+  {
+    "id": 4,
+    "judul": "Workshop UI/UX Design",
+    "slug": "workshop-uiux",
+    "kategori": "Pelatihan",
+    "tanggal": "2026-12-15",
+    "penulis": "KOMINFO",
+    "thumbnail": "assets/images/informasi/uiux.jpg",
+    "gambar": [
+      "assets/images/informasi/uiux.jpg"
+    ],
+    "ringkasan": "Pelatihan desain antarmuka menggunakan Figma dan prinsip UI/UX modern.",
+    "deskripsi": "Workshop UI/UX Design diselenggarakan sebagai wadah pembelajaran bagi mahasiswa yang ingin mendalami proses perancangan antarmuka aplikasi yang modern, menarik, dan berorientasi pada kebutuhan pengguna.\n\nPeserta mempelajari berbagai tahapan mulai dari user research, user persona, user flow, wireframe, prototyping menggunakan Figma, hingga penyusunan design system yang konsisten. Materi disampaikan secara bertahap sehingga mudah dipahami oleh peserta dari berbagai tingkat kemampuan.\n\nWorkshop juga dilengkapi dengan sesi praktik sehingga peserta dapat langsung menerapkan materi yang telah dipelajari ke dalam studi kasus nyata. Peserta memperoleh pengalaman merancang antarmuka aplikasi mulai dari tahap awal hingga prototype siap diuji.\n\nMelalui kegiatan ini diharapkan mahasiswa mampu menghasilkan desain antarmuka yang lebih profesional, meningkatkan kemampuan berpikir kreatif, serta memahami pentingnya pengalaman pengguna dalam pengembangan aplikasi.",
+    "tags": [
+      "UI",
+      "UX",
+      "Figma"
+    ],
+    "status": "publish"
+  },
+  {
+    "id": 5,
+    "judul": "Festival Minat dan Bakat Mahasiswa",
+    "slug": "festival-minba",
+    "kategori": "Event",
+    "tanggal": "2027-01-20",
+    "penulis": "MINBA",
+    "thumbnail": "assets/images/informasi/minba.jpg",
+    "gambar": [
+      "assets/images/informasi/minba.jpg"
+    ],
+    "ringkasan": "Ajang bagi mahasiswa untuk menampilkan kemampuan di bidang seni, olahraga, dan kreativitas.",
+    "deskripsi": "Festival Minat dan Bakat Mahasiswa merupakan agenda tahunan yang bertujuan memberikan ruang bagi mahasiswa Fakultas Ilmu Komputer untuk menunjukkan potensi terbaiknya di berbagai bidang.\n\nBerbagai perlombaan dan pertunjukan diselenggarakan mulai dari seni, olahraga, fotografi, desain grafis, e-sport, hingga kompetisi inovasi teknologi. Seluruh kegiatan dirancang untuk meningkatkan kreativitas, sportivitas, serta mempererat hubungan antar mahasiswa.\n\nFestival ini juga menjadi sarana bagi mahasiswa untuk saling mengenal, berkolaborasi, serta membangun suasana kampus yang aktif dan penuh semangat. Kegiatan diharapkan mampu menjadi wadah pengembangan karakter dan soft skill mahasiswa di luar kegiatan akademik.\n\nMelalui Festival Minat dan Bakat diharapkan lahir mahasiswa yang kreatif, percaya diri, berprestasi, dan mampu membawa nama baik Fakultas Ilmu Komputer dalam berbagai kompetisi.",
+    "tags": [
+      "Festival",
+      "Minat",
+      "Bakat"
+    ],
+    "status": "publish"
+  },
+  {
+    "id": 6,
+    "judul": "Pelatihan Public Speaking",
+    "slug": "public-speaking",
+    "kategori": "Pelatihan",
+    "tanggal": "2027-02-18",
+    "penulis": "PSDM",
+    "thumbnail": "assets/images/informasi/public-speaking.jpg",
+    "gambar": [
+      "assets/images/informasi/public-speaking.jpg"
+    ],
+    "ringkasan": "Pelatihan untuk meningkatkan kemampuan komunikasi dan presentasi mahasiswa.",
+    "deskripsi": "Pelatihan Public Speaking merupakan salah satu program kerja Divisi PSDM Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer yang bertujuan meningkatkan kemampuan komunikasi mahasiswa, baik dalam kegiatan akademik, organisasi, maupun dunia kerja.\n\nSelama pelatihan, peserta akan mempelajari teknik berbicara di depan umum, mengatasi rasa gugup, menyusun materi presentasi yang efektif, penggunaan bahasa tubuh yang tepat, hingga cara membangun kepercayaan diri ketika menyampaikan ide dan gagasan. Seluruh materi disampaikan secara interaktif agar peserta lebih mudah memahami setiap konsep yang diberikan.\n\nSelain sesi penyampaian materi, peserta juga mengikuti praktik presentasi dan simulasi berbicara di depan umum. Pada sesi ini peserta memperoleh evaluasi secara langsung dari pemateri sehingga dapat mengetahui kelebihan maupun aspek yang masih perlu ditingkatkan.\n\nMelalui kegiatan ini diharapkan mahasiswa memiliki kemampuan komunikasi yang lebih baik, mampu menyampaikan ide secara efektif, serta lebih percaya diri ketika berbicara di lingkungan akademik, organisasi, maupun dunia profesional.",
+    "tags": [
+      "Public Speaking",
+      "Pelatihan"
+    ],
+    "status": "publish"
+  }
+]

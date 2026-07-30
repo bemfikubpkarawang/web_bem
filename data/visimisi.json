@@ -1,0 +1,55 @@
+{
+  "visi": {
+    "judul": "Visi",
+    "isi": "Mewujudkan BEM FIK sebagai organisasi yang kolaboratif, aspiratif, adaptif, dan berdampak dalam mendukung pengembangan potensi mahasiswa."
+  },
+
+  "misi": [
+    {
+      "id": 1,
+      "isi": "Mengoptimalkan penyebaran informasi akademik, non akademik serta peluang pengembangan diri agar dapat diakses secara merata oleh seluruh Mahasiswa."
+    },
+    {
+      "id": 2,
+      "isi": "Menjadi wadah aspirasi yang terbuka, responsive dan menjembatani komunikasi antara mahasiswa dan fakultas."
+    },
+    {
+      "id": 3,
+      "isi": "Memperkuat kolaborasi dengan HMPS, UKM, alumni dan pihak fakultas dalam menciptakan lingkungan kemahasiswaan yang aktif."
+    },
+    {
+      "id": 4,
+      "isi": "Mendorong pengembangan kompetensi mahasiswa melalui kegiatan yang relavan dengan kebutuhan akademik, organisasi dan dunia kerja."
+    }
+  ],
+
+  "nilaiOrganisasi": [
+    {
+      "nama": "Integritas",
+      "deskripsi": "Menjunjung tinggi kejujuran, tanggung jawab, dan etika dalam setiap kegiatan organisasi.",
+      "icon": "fas fa-shield-alt"
+    },
+    {
+      "nama": "Kolaborasi",
+      "deskripsi": "Membangun kerja sama yang harmonis antar pengurus, mahasiswa, dan seluruh mitra organisasi.",
+      "icon": "fas fa-handshake"
+    },
+    {
+      "nama": "Inovasi",
+      "deskripsi": "Menghadirkan gagasan dan program kerja yang kreatif, relevan, dan mengikuti perkembangan teknologi.",
+      "icon": "fas fa-lightbulb"
+    },
+    {
+      "nama": "Profesional",
+      "deskripsi": "Bekerja secara disiplin, terencana, dan berorientasi pada kualitas hasil.",
+      "icon": "fas fa-briefcase"
+    },
+    {
+      "nama": "Adaptif",
+      "deskripsi": "Cepat beradaptasi terhadap perubahan serta mampu menjawab tantangan zaman.",
+      "icon": "fas fa-sync-alt"
+    }
+  ],
+
+  "tagline": "Kolaboratif • Inovatif • Adaptif • Berdampak"
+}

@@ -1,0 +1,81 @@
+{
+  "nama": "Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer",
+  "singkatan": "BEM FIK",
+  "universitas": "Universitas Buana Perjuangan Karawang",
+
+  "deskripsi": "Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer merupakan organisasi kemahasiswaan yang menjadi wadah aspirasi, kolaborasi, pengembangan potensi, serta penggerak berbagai kegiatan akademik maupun non-akademik bagi seluruh mahasiswa Fakultas Ilmu Komputer.",
+
+  "visiSingkat": "Mewujudkan BEM FIK yang Kolaboratif, Inovatif, Adaptif, dan Berdampak.",
+
+  "alamat": "Jl. HS Ronggowaluyo, Telukjambe Timur, Karawang, Jawa Barat",
+
+  "email": "bemfik@ubpkarawang.ac.id",
+
+  "whatsapp": "+62 812-3456-7890",
+
+  "instagram": "https://instagram.com/bemfik.ubp",
+
+  "youtube": "https://youtube.com/@bemfikubp",
+
+  "tiktok": "https://tiktok.com/@bemfikubp",
+
+  "linkedin": "https://linkedin.com/company/bemfikubp",
+
+  "website": "https://bemfikubp.github.io",
+
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+
+  "heroImage": "assets/images/hero/hero-bem.jpg",
+
+  "hero": {
+    "judul": "Bersama Berkarya untuk Fakultas Ilmu Komputer",
+
+    "subjudul": "Membangun kolaborasi, menciptakan inovasi, serta menghadirkan program kerja yang berdampak bagi seluruh mahasiswa Fakultas Ilmu Komputer."
+  },
+
+  "statistik": {
+    "divisi": 4,
+    "programKerja": 22,
+    "pengurus": 21
+  },
+
+  "sosialMedia": [
+    {
+      "nama": "Instagram",
+      "icon": "fab fa-instagram",
+      "url": "https://instagram.com/bemfik.ubp"
+    },
+    {
+      "nama": "YouTube",
+      "icon": "fab fa-youtube",
+      "url": "https://youtube.com/@bemfikubp"
+    },
+    {
+      "nama": "TikTok",
+      "icon": "fab fa-tiktok",
+      "url": "https://tiktok.com/@bemfikubp"
+    },
+    {
+      "nama": "LinkedIn",
+      "icon": "fab fa-linkedin",
+      "url": "https://linkedin.com/company/bemfikubp"
+    }
+  ],
+
+  "jamOperasional": {
+    "seninJumat": "08.00 - 16.00",
+    "sabtu": "08.00 - 12.00",
+    "minggu": "Tutup"
+  },
+
+  "sejarah": {
+  "judul": "Sejarah Organisasi",
+  "isi": "Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer dibentuk sebagai organisasi mahasiswa yang menjadi wadah aspirasi, pengembangan potensi, serta pelaksana kegiatan kemahasiswaan di lingkungan Fakultas Ilmu Komputer. Sejak berdiri, BEM FIK terus berkomitmen menghadirkan program kerja yang bermanfaat bagi mahasiswa dan masyarakat."
+},
+"tujuan": [
+  "Menjadi wadah aspirasi mahasiswa.",
+  "Mengembangkan potensi mahasiswa.",
+  "Membangun kolaborasi dengan berbagai pihak.",
+  "Menyelenggarakan program kerja yang berdampak."
+]
+}

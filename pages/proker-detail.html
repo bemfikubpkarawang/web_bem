@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Detail Program Kerja | BEM FIK</title>
+
+    <link rel="icon" href="../assets/images/logo.png">
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- Loader -->
+    <div class="loader">
+        <div class="spinner"></div>
+    </div>
+
+    <!-- Navbar -->
+    <header id="header"></header>
+
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+
+        <div class="container">
+
+            <a href="proker.html">Program Kerja</a>
+
+            <i class="ri-arrow-right-s-line"></i>
+
+            <span id="breadcrumbCurrent">Detail Program</span>
+
+        </div>
+
+    </nav>
+
+    <!-- Hero -->
+    <section class="page-header">
+
+        <div class="container">
+
+            <span class="subtitle" id="programDivision">
+                Memuat...
+            </span>
+
+            <h1 id="programTitle">
+                Memuat Program Kerja...
+            </h1>
+
+            <p id="programSummary">
+                Memuat deskripsi...
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- Detail Program -->
+    <section class="section">
+
+        <div class="container">
+
+            <div class="detail-card">
+
+                <div class="detail-meta">
+
+                    <div class="meta-item">
+                        <i class="ri-building-line"></i>
+                        <span id="programDivisi"></span>
+                    </div>
+
+                    <div class="meta-item">
+                        <i class="ri-calendar-line"></i>
+                        <span id="programTimeline"></span>
+                    </div>
+
+                    <div class="meta-item">
+                        <i class="ri-flag-line"></i>
+                        <span id="programStatus"></span>
+                    </div>
+
+                </div>
+
+                <div class="detail-content">
+
+                    <h2>Tujuan Program</h2>
+
+                    <p id="programGoal"></p>
+
+                    <h2>Deskripsi Lengkap</h2>
+
+                    <p id="programDescription"></p>
+
+                    <h2>Sasaran</h2>
+
+                    <ul id="programTarget"></ul>
+
+                    <h2>Output yang Diharapkan</h2>
+
+                    <ul id="programOutput"></ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Dokumentasi -->
+    <section class="section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Dokumentasi</span>
+
+                <h2>Kegiatan Terkait</h2>
+
+            </div>
+
+            <div class="gallery-grid" id="programGallery">
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Program Terkait -->
+    <section class="section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Rekomendasi</span>
+
+                <h2>Program Lain dari Divisi yang Sama</h2>
+
+            </div>
+
+            <div class="card-grid" id="relatedPrograms">
+
+                <!-- Diisi otomatis via JS: 2-3 program dengan divisi sama, dari data/proker.json -->
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Navigasi -->
+    <section class="section">
+
+        <div class="container center">
+
+            <a href="proker.html" class="btn btn-outline">
+
+                ← Kembali ke Program Kerja
+
+            </a>
+
+        </div>
+
+    </section>
+
+    <!-- Footer -->
+    <footer id="footer"></footer>
+
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+    <script src="../js/data-loader.js"></script>
+    <script src="../js/detail.js"></script>
+    <script src="../js/app.js"></script>
+    <script src="../js/animation.js"></script>
+
+</body>
+
+</html>
